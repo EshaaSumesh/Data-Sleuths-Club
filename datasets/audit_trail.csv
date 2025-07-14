@@ -1,0 +1,7 @@
+Event ID,Timestamp,Action,Status
+4501,2025-07-11 02:05,External Drive Mount Detected,Success
+4502,2025-07-11 02:06,AI_Model File Copied,Success
+4503,2025-07-11 02:10,USB Device Ejected,Success
+4504,2025-07-11 23:49,External Drive Mount Detected,Success
+4505,2025-07-11 23:52,AI_Model File Copied,Success
+4506,2025-07-12 00:01,USB Device Ejected,Success
