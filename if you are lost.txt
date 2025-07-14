@@ -1,0 +1,17 @@
+Data Sleuths: The Insider Signal – Hints
+
+1. Multiple employees downloaded the AI model. Focus on who went beyond just downloading.
+
+2. Cross-check login times with device activity from the audit trail. The timestamps are key.
+
+3. Not everyone had physical access — pay attention to onsite vs remote (VPN) logins.
+
+4. One of the device transfer trails is a fake lead. Verify who was actually logged in at that time.
+
+5. The real exfiltration aligns closely with the competitor's launch date. Time matters.
+
+6. Just because an employee used a USB doesn't mean they copied the AI model. Match actions, not assumptions.
+
+7. Some downloads happened before the breach window — not all are suspicious.
+
+Use critical reasoning and investigate like a true analyst. Good luck!
