@@ -1,6 +1,6 @@
 # Data Sleuths: The Insider Signal
 
-**A data analytics mystery challenge for final-year students**
+**A data analytics mystery challenge for participants**
 
 This repository contains a scenario-based activity where participants investigate a corporate data breach using structured datasets. The task is to identify which employee leaked a confidential AI model by analyzing login records, file access logs, audit trails, and competitor events.
 
